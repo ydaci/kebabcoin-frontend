@@ -72,7 +72,7 @@ export default function App() {
               whileTap={{ scale: 0.98 }}
               transition={{ type: "spring", stiffness: 400, damping: 17 }}
               onClick={() => window.open(
-    "https://dapp.quickswap.exchange/swap/best/ETH/0xEDCAb64b93fF4419d6E25EB5b2E4fD14B23Eba06?chainId=137",
+    "https://dapp.quickswap.exchange/swap/best/ETH/0xE4f43BE7353cA2b698344625e3f3153F406F7370?chainId=137",
     "_blank"
   )}
             >
